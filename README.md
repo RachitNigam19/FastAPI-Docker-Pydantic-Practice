@@ -1,4 +1,4 @@
-🚀 FastAPI-Docker-Pydantic-Practice
+# 🚀 FastAPI-Docker-Pydantic-Practice
 This repository is a collection of practical projects and learning exercises focused on building modern APIs with FastAPI, data validation with Pydantic, and containerization with Docker. It includes hands-on implementations of API development, data modeling, and deployment workflows, showcasing proficiency in backend development and DevOps practices.
 📖 Overview
 This project serves as a practice hub for mastering FastAPI, Pydantic, and Docker. It includes a variety of exercises, such as building a patient management API, exploring Pydantic for robust data validation, and containerizing applications for scalable deployment. The repository demonstrates practical skills in creating production-ready APIs and managing containerized environments.
